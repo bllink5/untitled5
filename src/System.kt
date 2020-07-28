@@ -1,9 +1,18 @@
 class System {
-    fun sistemSystem(){
-        val rollDice = arrayOf(1,2,3,4,5,6)
-        var score = 0
-        var dice = rollDice.random()
-        var total = dice
-        var fullScore = score + total
+    fun sistem(){
+        println("Masukan jumlah Pemain : ")
+        var input = readLine()
+        var pemain = input!!.toInt()
+        for (i in 1..pemain)
+            User().sistemUser()
+
+        println("               Main Lagi ?         ")
+        println("                  Y/N              ")
+        var inputPlay = readLine()
+        if (inputPlay.equals("y",ignoreCase = true)) {
+            return sistem()
+        } else (inputPlay.equals("n",ignoreCase = true))
+        println("               GAME OVER           ")
+        println("       TERIMA KASIH TELAH BERMAIN  ")
     }
 }

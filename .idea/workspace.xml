@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce2cdc8c-f9b4-450c-883a-e4f9100988fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User1.kt" beforeDir="false" />
+    <list default="true" id="ce2cdc8c-f9b4-450c-883a-e4f9100988fa" name="Default Changelist" comment="DICE DICE">
+      <change afterPath="$PROJECT_DIR$/src/Dice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/System.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593635280147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="DICE DICE">
+      <created>1595955806692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595955806693</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,10 +176,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593622457819" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1593635275421">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1595955801411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593635275421" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595955801411" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1595940747750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -217,9 +220,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593631318482" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595955776209">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595955889499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595955776209" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595955889499" />
   </component>
 </project>
